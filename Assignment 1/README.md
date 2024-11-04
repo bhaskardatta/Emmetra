@@ -75,4 +75,3 @@ python emmetra1.py
 - The application assumes a GRBG Bayer pattern for demosaicing
 - The preview window automatically scales large images to fit the display
 - All processing is done in memory, so ensure sufficient RAM for large images
-```
